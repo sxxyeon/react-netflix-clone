@@ -5,7 +5,7 @@ import './index.css'
 import App from './App'
 const root = ReactDOM.createRoot(document.getElementById('root'))
 root.render(
-  <BrowserRouter basename='react-netflix'>
+  <BrowserRouter basename='react-netflix-clone'>
     <App />
   </BrowserRouter>
 )
