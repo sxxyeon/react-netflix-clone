@@ -1,0 +1,5 @@
+body{ display:flex; flex-direction: column; width: 100%; margin: 0; padding: 0; background: #000;}
+#root{ flex: 1;}
+
+.wrap{display: flex; flex-direction: column; height: 100vh;}
+.wrap > .content{flex: 1; color:#fff}
